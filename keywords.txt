@@ -1,0 +1,6 @@
+LcdStateManager KEYWORD1
+
+getState KEYWORD2
+setState KEYWORD2
+update KEYWORD2
+shouldRender KEYWORD2
